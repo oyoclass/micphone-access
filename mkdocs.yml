@@ -1,0 +1,6 @@
+site_name: How to Allow Microphone Usage
+theme: readthedocs
+docs_dir: 'doc'
+extra_css: [css/custom.css]
+nav:
+    - 'Home': 'index.md'
